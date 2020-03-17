@@ -12,7 +12,7 @@
   let s:light_yellow  = [ '#DADA93', 'NONE' ]
   let s:dark_yellow   = [ '#DADA93', 'NONE' ]
 
-  let s:black         = [ '#1C1C1C', 'NONE' ]
+  let s:black         = [ '#000000', 'NONE' ]
   let s:white         = [ '#C5D4DD', 'NONE' ]
   let s:comment_grey  = [ '#C5D4DD', 'NONE' ]
   let s:gutter_grey   = [ '#899BA6', 'NONE' ]
